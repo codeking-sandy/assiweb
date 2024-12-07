@@ -135,3 +135,25 @@ main {
 .card-bui {
   margin-left: 12px;
 }
+.tb {
+  background-color: #0a0f54;
+  border: 2px solid #0a0f54;
+  width: 550px;
+  margin-top: 23px;
+  text-align: center;
+  /* font-weight: 600; */
+  font-size: 20px;
+}
+
+.table {
+  margin-top: 20px;
+}
+.tb h5 {
+  padding-top: 19px;
+  color: white;
+  font-weight: 600;
+  font-size: 28px;
+}
+table tbody tr td {
+  font-weight: 500;
+}
