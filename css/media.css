@@ -1,0 +1,10 @@
+@media (min-width: 500px) {
+  .container,
+  .container-md,
+  .container-sm {
+    max-width: 720px;
+  }
+  .about-kasi {
+    flex-wrap: wrap;
+  }
+}
