@@ -157,3 +157,19 @@ main {
 table tbody tr td {
   font-weight: 500;
 }
+.venue-banner {
+  border: 2px solid red;
+  width: 1000px;
+  height: 400px;
+  margin-top: 20px;
+  display: flex;
+  background-color: #0a0f54;
+  justify-content: center;
+  color: white;
+  flex-direction: row;
+}
+.para {
+  margin-top: 20px;
+  text-align: center;
+  margin-right: 30px;
+}
